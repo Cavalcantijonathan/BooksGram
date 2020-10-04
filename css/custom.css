@@ -1,0 +1,63 @@
+body {
+    background-color: #ffff;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 18px;    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: auto;
+    top: auto;
+    bottom: 100px;
+    justify-content: space-between;
+}
+
+.boasvindas {
+    margin-top: 17px;
+    margin-right: 115px;
+}
+
+img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 380px;
+    align-items: center;
+}
+
+#imgbutton {
+    width: 20px;
+}
+
+#logo {
+    width: 200px;
+    
+}
+
+
+.feed {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 380px;
+    margin: auto;
+    align-items: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.404);
+    font-size: 15px ;
+}
+
+.feed h3 {
+    margin-left: 18px;
+}
+
+a {
+    background-color:  #e02041;
+    color: white;
+    text-decoration: none;
+    padding: 8px; 
+    border-radius: 8px;
+    margin-right: 5px;   
+}
